@@ -1,3 +1,4 @@
+let Chart = require("./lib/chart");
 let html = require("./data/html");
 let inputs = require("./data/inputs.json");
 let output = require("./data/output.json");
